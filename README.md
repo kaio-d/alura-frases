@@ -1,6 +1,6 @@
 # Alura Frases
 
-![Alura Frases](./.github/preview.png)
+![Alura Frases](.github/preview.PNG)
 
 ## Descrição
 
